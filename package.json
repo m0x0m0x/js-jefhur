@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "math": "0.0.3",
+    "mathjs": "^12.3.2"
+  }
+}

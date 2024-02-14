@@ -1,0 +1,11 @@
+html {
+  background-color: #020617;
+  color: #22c55e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 25px;
+  font-family: Kanit;
+  text-align: center;
+}
